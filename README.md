@@ -19,7 +19,7 @@ You will need Python 3.8 or above and the following Python packages: pandas, num
 2. Install the required packages
 3. Download the movielens100k dataset for training and other uses, and place the dataset in dataset folder
 4. Create a matrices folder to save _cosine_sim_ and _tfidf_matrix_
-5. Run [recommender_system_training.ipyndb](recommender_system_training.ipynb) to generate and saved the matrices needed for this project
+5. Run [recommender_system_training.ipynb](recommender_system_training.ipynb) to generate and saved the matrices needed for this project
 6. Run the streamlit app using `streamlit run app.py`
 
 ## Dataset
